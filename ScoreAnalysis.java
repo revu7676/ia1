@@ -1,7 +1,7 @@
 public class ScoreAnalysis {
     public static void main(String[] args) {
         // Sample array of scores
-        int[] scores = { 85, 92, 78, 90, 66, 88, 76 };
+        int[] scores = { 85, 92, 78, 90, 66, 88, 76, 88 };
 
         // Initialize variables
         int sum = 0;
